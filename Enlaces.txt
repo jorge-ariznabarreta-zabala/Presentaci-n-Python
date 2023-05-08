@@ -1,0 +1,50 @@
+https://www.python.org/ (Inglés)
+
+documentación de Python - 3.11.3, tutorial, Howtos,...
+https://docs.python.org/es/3/index.html
+https://docs.python.org/es/3.11/index.html
+https://docs.python.org/es/3.11/tutorial/index.html
+
+Tutorial de Python
+https://ellibrodepython.com/
+
+Cursos en Codecademy (Inglés)
+https://www.codecademy.com/catalog/language/python
+Documentación (Inglés)
+https://www.codecademy.com/resources/docs/python
+
+Python, JS, SQL, MongoDB,...
+https://www.codigofuente.org/series/python/
+
+La versión online del libro que hemos pasado por discord
+https://uniwebsidad.com/libros/python
+
+Tutorial interactivo en español sobre Python de LearnPython.org
+https://www.learnpython.org/es/
+
+lambda para ordenar iterables
+https://geekflare.com/es/lambda-functions-python/
+
+Python, de principiante a experto
+https://j2logo.com/
+
+Aprende Python - Curso de Python desde Cero
+https://www.youtube.com/watch?v=DLikpfc64cA
+
+Canal Youtube con Flask, Django, pyGames,...
+https://www.youtube.com/@MundoPython
+
+¡Bienvenido al tutorial de Recursos Python!
+https://tutorial.recursospython.com/
+
+La lista de reproducción de la página de Jonathan (Inglés)
+https://www.youtube.com/watch?v=1sKuY9eqbhg&list=PLto9KpJAqHMQNY3XP0JqLs7NyeU_dnNj0
+
+El curso de Python de la pagina (Inglés)
+https://replit.com/learn/100-days-of-python/hub?enroll=success
+
+ Python Intermedio
+https://python-intermedio.readthedocs.io/es/latest/index.html#
+
+#PYthon Package Index
+https://pypi.org/ 

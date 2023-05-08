@@ -1,0 +1,48 @@
+    Introducción a Python
+        ¿Qué es Python?
+        ¿Por qué usar Python?
+        Instalación de Python
+
+    Variables y tipos de datos
+        Variables
+        Tipos de datos
+        Operaciones básicas
+
+    Estructuras de control de flujo
+        If/else
+        Bucles while/for
+        Break/continue
+
+    Funciones
+        Definición de funciones
+        Argumentos y parámetros
+        Retorno de valores
+
+    Listas, tuplas y diccionarios
+        Listas
+        Tuplas
+        Diccionarios
+
+    Archivos
+        Lectura y escritura de archivos
+        Manejo de excepciones
+
+    Módulos y paquetes
+        Importación de módulos
+        Creación de paquetes
+
+    Programación orientada a objetos
+        Clases y objetos
+        Atributos y métodos
+        Herencia
+
+    Introducción a la programación web con Flask
+        Instalación de Flask
+        Creación de una aplicación web básica
+        HTML y CSS básicos
+		Eventos
+
+    Conclusiones y próximos pasos
+        Repaso del curso
+        Recursos adicionales
+        Próximos pasos para seguir aprendiendo Python

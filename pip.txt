@@ -1,0 +1,9 @@
+pip install --upgrade pip 
+
+python -m pip freeze > requirements.txt #crea requirements.txt con la lista de paquetes
+
+python -m pip freeze --all > requirements.txt # incluye paquetes de python como pip,...
+
+pip install -r requirements.txt #instala paquetes listados en requirements.txt
+
+pip install --upgrade $(pip freeze | awk '{split($0, a, "=="); print a[1]}') #actualiza todos los paquetes del sistema
